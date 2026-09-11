@@ -20,7 +20,7 @@ const Hero = () => {
             Software Engineer (React)
           </p>
           <p className="text-lg text-slate-300 mb-8 max-w-2xl mx-auto leading-relaxed">
-            Software Developer with 3.5+ years of experience in designing and developing scalable full-stack web applications. 
+            Software Developer with 4.5+ years of experience in designing and developing scalable full-stack web applications. 
             Passionate about building high-performance, user-centric applications that drive business value.
           </p>
           

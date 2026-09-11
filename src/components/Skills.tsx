@@ -91,7 +91,6 @@ const Skills = () => {
               "Redux",
               "Next.js",
               "TypeScript",
-              "Tailwind",
               "Node.js",
               "Express.js",
               "MongoDB",

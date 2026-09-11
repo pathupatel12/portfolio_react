@@ -42,7 +42,7 @@ const About = () => {
           
           <div>
             <p className="text-lg text-gray-600 leading-relaxed mb-6">
-              Hi there! I'm Parth, a passionate software engineer with 3.5+ years of experience 
+              Hi there! I'm Parth, a passionate software engineer with 4.5+ years of experience 
               building scalable web applications that users love. My journey started with React development 
               and has evolved into full-stack expertise with modern web technologies.
             </p>
